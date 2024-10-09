@@ -1,5 +1,7 @@
 # 💫 About Me:
-Improving my skills in C++ and C by building complex projects, including game development and microcontroller programming.<br>Pursuing a degree at ESPRIT, with a strong focus on C++ and C programming for system and software development.<br>Projects that heavily use C++ or C for backend systems, embedded programming, or game development.<br>Advanced C++ programming techniques and optimization.<br>Integrating C/C++ code with other technologies like Python or JavaScript.<br>Web development projects involving HTML, PHP, and CSS<br>Game development projects using C or SDL.<br>More about C++ STL libraries and optimizing code performance in C.<br>System-level programming using C for microcontrollers.<br>Efficient code practices in C++ and C.<br>Tips on working with microcontrollers using C.<br>My most used programming languages are C++ and C, and I enjoy building projects where I can apply them in real-world applications!
+"Hey there! I'm Wassim, a passionate computer science student with a deep love for C++ and C programming. I thrive on building projects that blend creativity and logic, whether it's developing games, working with microcontrollers, or optimizing algorithms. I’m always looking to collaborate with like-minded developers and explore new technologies. When I’m not coding, you’ll probably find me experimenting with robotics or brainstorming new ideas to push the boundaries of tech. Let’s connect and create something awesome together!"
+
+This paragraph highlights your passion for programming and invites collaboration!
 
 
 ## 🌐 Socials:
