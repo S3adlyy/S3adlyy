@@ -1,7 +1,5 @@
 ![Wassim Saadli — Cloud Engineering and DevOps](./profile-banner.svg)
 
-I'm a cloud engineering student at **ESPRIT in Tunis**. I like following a web request from the network to the container that serves it. In my labs, I configure Linux servers, run services with Docker Compose, and test what happens when a container restarts.
-
-**Currently exploring** &nbsp; Linux networking · AWS infrastructure · CI/CD
+Cloud & Cybersecurity Engineering student passionate about cloud computing, cybersecurity, and emerging technologies. Continuously learning and developing skills in cloud infrastructure, networking, and secure systems. Eager to take on new challenges, contribute to innovative projects, and grow as a future Cloud & Cybersecurity Engineer.
 
 [Visit my portfolio ↗](https://wassimsaadli.me/) &nbsp; · &nbsp; [Connect on LinkedIn ↗](https://www.linkedin.com/in/wassimsaadli/)
