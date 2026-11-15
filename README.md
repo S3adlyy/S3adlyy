@@ -1,8 +1,8 @@
 # Wassim Saadli
 
-**Cloud engineering student at ESPRIT · Tunis, Tunisia**
+**Cloud engineering student**
 
-I build small applications to understand the infrastructure behind them. In TaskPilot, I use a Flask task manager to explore how a request reaches a container, how to check that the service is healthy, and how to keep its data when the container is replaced.
+Cloud & Cybersecurity Engineering student passionate about cloud computing, cybersecurity, and emerging technologies. Continuously learning and developing skills in cloud infrastructure, networking, and secure systems. Eager to take on new challenges, contribute to innovative projects, and grow as a future Cloud & Cybersecurity Engineer.
 
 [Portfolio](https://wassimsaadli.me/) · [LinkedIn](https://www.linkedin.com/in/wassimsaadli/)
 
