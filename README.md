@@ -1,16 +1,15 @@
-## Hi there 👋
+# Wassim Saadli
 
-<!--
-**S3adlyy/S3adlyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud engineering student at ESPRIT · Tunis, Tunisia**
 
-Here are some ideas to get you started:
+I build small applications to understand the infrastructure behind them. In TaskPilot, I use a Flask task manager to explore how a request reaches a container, how to check that the service is healthy, and how to keep its data when the container is replaced.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://wassimsaadli.me/) · [LinkedIn](https://www.linkedin.com/in/wassimsaadli/)
+
+## Selected work
+
+| Project | What you'll find |
+| --- | --- |
+| [TaskPilot](https://github.com/S3adlyy/TaskPilot) | A Flask task manager running behind Nginx. Docker Compose connects the services, and a volume keeps the SQLite database across restarts. |
+| [Virtualization Fundamentals Lab](https://github.com/S3adlyy/Virtualization-Fundamentals-Lab) | Hands-on VirtualBox exercises covering VM isolation, resource allocation, snapshots, cloning, and virtual networks. |
+| [SMS Sender](https://github.com/S3adlyy/SMS-Sender-Web-page) | A PHP and MySQL web app that uses the Twilio API to send text messages to Tunisian phone numbers. |
